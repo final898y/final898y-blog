@@ -33,14 +33,14 @@ jobs:
 
       # 列出 dist 內容（除錯）
       - name: List dist contents
-        run: ls -la dist
+        run: ls -la docs/.vitepress/dist
 
       # 部署到 GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           deploy_key: ${{ secrets.DEPLOY_KEY }}
-          publish_dir: ./dist
+          publish_dir: ./docs/.vitepress/dist
           destination_dir: blog
           external_repository: final898y/final898y.github.io
           publish_branch: gh-pages
