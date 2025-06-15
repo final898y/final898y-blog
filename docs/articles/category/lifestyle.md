@@ -1,6 +1,7 @@
 ---
 title: 生活隨筆
 date: 2025-06-01
+comments: false
 ---
 
 # 生活隨筆

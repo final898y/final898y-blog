@@ -49,7 +49,8 @@ export default defineConfig({
       formatOptions: { dateStyle: "full", timeStyle: "medium" },
     },
     editLink: {
-      pattern: "https://github.com/your-username/blog/edit/main/docs/:path", // 編輯連結，指向 GitHub 儲存庫
+      pattern:
+        "https://github.com/final898y/final898y-blog/edit/main/docs/:path", // 編輯連結，指向 GitHub 儲存庫
       text: "在 GitHub 上編輯此頁",
     },
     search: {

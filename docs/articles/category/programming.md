@@ -1,6 +1,7 @@
 ---
 title: 程式設計文章
 date: 2025-06-01
+comments: false
 ---
 
 # 程式設計文章
