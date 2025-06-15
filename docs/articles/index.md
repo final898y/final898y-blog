@@ -1,5 +1,6 @@
 ---
 title: 我的博客
+comments: false
 ---
 
 # 文章總覽

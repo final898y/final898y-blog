@@ -1,10 +1,15 @@
 <script setup lang="ts">
 import { useData, useRoute } from "vitepress";
 const { title, frontmatter } = useData();
+import { computed } from "vue";
+
 const route = useRoute();
 
 // 動態主題，根據 VitePress 主題切換
-const theme = frontmatter.value.theme === "dark" ? "dark" : "transparent_dark";
+const { page } = useData();
+const commentsEnabled = computed(
+  () => page.value.frontmatter.comments !== false
+);
 </script>
 
 <template>
@@ -23,7 +28,7 @@ const theme = frontmatter.value.theme === "dark" ? "dark" : "transparent_dark";
       data-category="Blog Comments"
       data-category-id="DIC_kwDOO78Uoc4CrhhH"
       data-mapping="pathname"
-      data-strict="0"
+      data-strict="1"
       data-reactions-enabled="1"
       data-emit-metadata="0"
       data-input-position="bottom"
@@ -34,6 +39,7 @@ const theme = frontmatter.value.theme === "dark" ? "dark" : "transparent_dark";
       async
     />
   </div>
+  <!-- <p v-if="!commentsEnabled">留言功能已禁用</p> -->
 </template>
 
 <style scoped>
