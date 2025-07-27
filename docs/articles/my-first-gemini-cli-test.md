@@ -2,6 +2,7 @@
 title: 使用 Gemini CLI 打造高效程式設計體驗：第一次體驗
 date: 2025-06-26
 tags: [程式設計, Gemini CLI, AI, 初學者]
+description: Gemini CLI免費試用教學。
 ---
 
 # 使用 Gemini CLI 打造高效程式設計體驗：第一次體驗

@@ -2,6 +2,7 @@
 title: 我的第一篇程式設計文章
 date: 2025-06-01
 tags: [程式設計, VitePress, 初學者]
+description: 範例教學。
 ---
 
 # 我的第一篇程式設計文章

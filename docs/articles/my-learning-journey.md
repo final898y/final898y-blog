@@ -18,12 +18,12 @@ description: 分享我的學習心得，記錄如何在程式設計中找到樂�
 ```html
 <!DOCTYPE html>
 <html>
-<head>
-  <title>我的第一個網頁</title>
-</head>
-<body>
-  <h1>你好，世界！</h1>
-</body>
+  <head>
+    <title>我的第一個網頁</title>
+  </head>
+  <body>
+    <h1>你好，世界！</h1>
+  </body>
 </html>
 ```
 
@@ -40,4 +40,5 @@ description: 分享我的學習心得，記錄如何在程式設計中找到樂�
 學習是一段永無止境的旅程。希望我的故事能鼓勵您踏出第一步！如果您有類似的經歷，歡迎留言分享。
 
 ---
-*最後更新於 {{ $frontmatter.date }}*
+
+_最後更新於 {{ $frontmatter.date }}_

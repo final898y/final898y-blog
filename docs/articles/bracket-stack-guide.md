@@ -2,6 +2,7 @@
 title: Leetcode：括號配對演算法與 Stack 應用比較講義
 date: 2025-07-15
 tags: [程式設計, Leetcode, Stack, AI輸出文章]
+description: 使用 Stack 解決配對問題。
 ---
 
 # 📘 括號配對演算法與 Stack 應用比較講義

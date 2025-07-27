@@ -54,7 +54,8 @@ const features = posts.map(post => ({
   >
     <span class="feature-icon">{{ feature.icon }}</span>
     <h3><a :href="feature.link">{{ feature.title }}</a></h3>
-    <p>{{ feature.details }} - {{ feature.date }}</p>
+    <p>{{ feature.details }}</p>
+    <p>{{ feature.date }}</p>
   </div>
 </div>
 <div v-else class="no-posts">

@@ -2,6 +2,7 @@
 title: Leetcode：Linked List（鏈結串列）與Merge Two Sorted Lists 解題整理
 date: 2025-07-17
 tags: [程式設計, Leetcode, Linked List, AI輸出文章]
+description: Linked List（鏈結串列）基礎介紹。
 ---
 
 # ListNode 基本知識與 Merge Two Sorted Lists 解題整理
