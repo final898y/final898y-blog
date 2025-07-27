@@ -58,7 +58,7 @@ export default defineConfig({
     },
   },
   lastUpdated: true, // 顯示文章最後更新時間
-
+  cleanUrls: true, // 啟用乾淨的 URL，去除 .html 擴展名
   // Markdown 配置，增強文章撰寫體驗
   markdown: {
     lineNumbers: true, // 在程式碼區塊顯示行號

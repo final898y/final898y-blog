@@ -32,11 +32,11 @@ description: Gemini CLI免費試用教學。
    gemini
    ```
 
-   ![安裝畫面](/articlepic/250626_001.png)
+   ![安裝畫面](/articlepic/202507_12/250626_001.png)
 
    安裝後，輸入 `gemini` 即可啟動，並選擇一個顏色主題 (**color theme**)。
 
-   ![顏色選擇](/articlepic/250626_002.png)
+   ![顏色選擇](/articlepic/202507_12/250626_002.png)
 
 ### 身分驗證 (Authenticate)
 
