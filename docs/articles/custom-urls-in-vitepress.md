@@ -1,7 +1,7 @@
 ---
 title: 在 VitePress 中自訂 URL
 date: 2025-07-27
-tags: [程式設計, VitePress, AI輸出文章]
+tags: [程式設計, VitePress]
 description: VitePress 中自訂 URL
 ---
 

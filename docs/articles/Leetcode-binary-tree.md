@@ -1,7 +1,7 @@
 ---
 title: Leetcode：Binary Tree 104、100、572 解題整理
 date: 2025-07-28
-tags: [程式設計, Leetcode, Binary Tree, Recursion, AI輸出文章]
+tags: [程式設計, Leetcode, Binary Tree, Recursion]
 description: 二元樹相關的Easy等級題目整理。
 ---
 

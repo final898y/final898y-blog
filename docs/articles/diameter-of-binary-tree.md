@@ -1,7 +1,7 @@
 ---
 title: Leetcode：543. Diameter of Binary Tree 講義
 date: 2025-07-20
-tags: [程式設計, Leetcode, Binary Tree, Recursion, AI輸出文章]
+tags: [程式設計, Leetcode, Binary Tree, Recursion]
 description: 二元樹，請找出這棵樹的「直徑」。
 ---
 
